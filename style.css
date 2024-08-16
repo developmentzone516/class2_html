@@ -1,0 +1,26 @@
+.para3{
+
+    background-color: bisque !important;
+    color: crimson !important;
+    text-align: justify;
+   
+}
+
+body{
+    background-color: black;
+    color: chartreuse;
+    text-transform: uppercase;
+    margin: 30px;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h2{
+    color: aqua;
+    background-color: brown;
+    font-size: 30px;
+}
+#head{
+    color: darkmagenta;
+    background-color: aquamarine;
+}
